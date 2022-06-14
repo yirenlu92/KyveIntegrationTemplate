@@ -10,8 +10,8 @@
 
 ```json
 {
-  "rpc": "https://forno.celo.org",
-  "github": "https://github.com/kyve-org/celo"
+  "rpc": "<Insert your rpc endpoint here>",
+  "github": "https://github.com/yirenlu92/KyveIntegrationTemplate"
 }
 ```
 
