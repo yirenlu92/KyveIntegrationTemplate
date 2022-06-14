@@ -1,7 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 
 <div align="center">
-  <h1>KYVE + Celo</h1>
+  <h1>KYVE Integration Template</h1>
 </div>
 
 ![banner](https://github.com/kyve-org/assets/raw/main/banners/Celo.png)
