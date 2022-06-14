@@ -9,7 +9,7 @@ KYVE.metrics.register.setDefaultLabels({
   app: process.env.KYVE_RUNTIME,
 });
 
-class KyveCelo extends KYVE {
+class KyveIntegrationTemplate extends KYVE {
   public async getDataItem(key: number): Promise<{ key: number; value: any }> {
     let block;
 
@@ -30,4 +30,4 @@ class KyveCelo extends KYVE {
 }
 
 // noinspection JSIgnoredPromiseFromCall
-new KyveCelo().start();
+new KyveIntegrationTemplate().start();
