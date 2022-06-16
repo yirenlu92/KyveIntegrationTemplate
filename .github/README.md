@@ -6,6 +6,9 @@
 
 ![banner](https://github.com/kyve-org/assets/raw/main/banners/Celo.png)
 
+# README
+Use this template repo to create your own Kyve integration -- i.e. to move data from a source chain into Kyve.
+
 ## Configuration
 
 ```json
