@@ -14,8 +14,3 @@
   "github": "https://github.com/yirenlu92/KyveIntegrationTemplate"
 }
 ```
-
-## Endpoints
-
-- [`eth_blockNumber`](https://ethereum.org/en/developers/docs/apis/json-rpc)
-- [`eth_getBlockByNumber`](https://ethereum.org/en/developers/docs/apis/json-rpc)
